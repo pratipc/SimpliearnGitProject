@@ -1,5 +1,3 @@
 Hello World.
 This is the GitHub Project repository File. I will be doing all my work on this file.
-"I am adding a few words in feature1 before rebase" 
-"a new line for faeture 1" 
-"feature1 rebase example" 
+
